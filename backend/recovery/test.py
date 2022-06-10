@@ -4,7 +4,6 @@ from DataRecovery import DataRecovery
 
 
 dataRecovery = DataRecovery()
-# dataRecovery.load()
 # dataRecovery.score("Lima")
 #retrieve1 = dataRecovery.retrieve_k_tweets('1')
 # print(retrieve1)
